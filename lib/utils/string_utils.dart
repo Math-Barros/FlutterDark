@@ -1,7 +1,8 @@
 class StringUtils {
   String home = 'Bem Vindo.';
 
-  String user = ' Pedro Henrique Carnaval\n RM: 80802\n Sistemas de Informação';
+  String user =
+      "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...";
 
   String question = 'Qual a diferença entre Stateless e Statefull Widget?';
 
